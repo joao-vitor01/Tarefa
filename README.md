@@ -4,7 +4,7 @@ Este projeto demonstra o uso de interrupções (IRQs) no microcontrolador RP2040
 
 - Interrupções para os botões com tratamento de debounce via software.
 - Controle de uma matriz 5x5 WS2812 para exibir números de 0 a 9.
-- Piscar contínuo do LED RGB vermelho (GPIO 13) 5 vezes a cada segundo.
+- Piscar continuamente o LED RGB vermelho (GPIO 13) 5 vezes por segundo.
 
 ## Componentes utilizados:
 
